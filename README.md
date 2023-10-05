@@ -1,0 +1,3 @@
+# CALCULATOR
+
+The Calculator Project is a website developed using HTML, CSS, and JavaScript. It features a user-friendly interface for basic arithmetic operations, like addition, subtraction, multiplication, and division. The design is simple, with buttons for digits, operations, and clearing input. JavaScript processes user interactions and maintains memory for continuous calculations. The project follows coding best practices, ensures error handling, and is performance-optimized. It serves as a convenient and accessible calculator application for users across various devices.
